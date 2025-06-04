@@ -68,6 +68,7 @@ def ejecutarMenu():
             editarProducto()    
         elif(eleccion=="4"):
             print("Elegiste Opcion 4 Eliminar Producto ")
+            eliminarProducto()
         elif(eleccion=="5"):
             print("Elegiste Opcion 5 Salir ")
             print("Adios ")
